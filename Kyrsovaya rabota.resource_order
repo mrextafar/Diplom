@@ -1,0 +1,24 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Временные шкалы","order":8,"path":"folders/Временные шкалы.yy",},
+    {"name":"Звуки","order":3,"path":"folders/Звуки.yy",},
+    {"name":"Кривые анимации","order":12,"path":"folders/Кривые анимации.yy",},
+    {"name":"Наборы плиток","order":2,"path":"folders/Наборы плиток.yy",},
+    {"name":"Объекты","order":9,"path":"folders/Объекты.yy",},
+    {"name":"Последовательности","order":11,"path":"folders/Последовательности.yy",},
+    {"name":"Примечания","order":13,"path":"folders/Примечания.yy",},
+    {"name":"Пути","order":4,"path":"folders/Пути.yy",},
+    {"name":"Расширения","order":14,"path":"folders/Расширения.yy",},
+    {"name":"Румы","order":10,"path":"folders/Румы.yy",},
+    {"name":"Скрипты","order":5,"path":"folders/Скрипты.yy",},
+    {"name":"Спрайты","order":1,"path":"folders/Спрайты.yy",},
+    {"name":"Шейдеры","order":6,"path":"folders/Шейдеры.yy",},
+    {"name":"Шрифты","order":7,"path":"folders/Шрифты.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"PlayerCollision","order":2,"path":"scripts/PlayerCollision/PlayerCollision.yy",},
+    {"name":"sCol","order":2,"path":"sprites/sCol/sCol.yy",},
+    {"name":"sPlayerRun","order":1,"path":"sprites/sPlayerRun/sPlayerRun.yy",},
+    {"name":"MACROS","order":1,"path":"scripts/MACROS/MACROS.yy",},
+  ],
+}
