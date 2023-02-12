@@ -18,7 +18,10 @@
   "ResourceOrderSettings": [
     {"name":"PlayerCollision","order":2,"path":"scripts/PlayerCollision/PlayerCollision.yy",},
     {"name":"sCol","order":2,"path":"sprites/sCol/sCol.yy",},
+    {"name":"PlayerStateFree","order":3,"path":"scripts/PlayerStateFree/PlayerStateFree.yy",},
     {"name":"sPlayerRun","order":1,"path":"sprites/sPlayerRun/sPlayerRun.yy",},
+    {"name":"PlayerStateRoll","order":4,"path":"scripts/PlayerStateRoll/PlayerStateRoll.yy",},
+    {"name":"sPlayerRoll","order":3,"path":"sprites/sPlayerRoll/sPlayerRoll.yy",},
     {"name":"MACROS","order":1,"path":"scripts/MACROS/MACROS.yy",},
   ],
 }
