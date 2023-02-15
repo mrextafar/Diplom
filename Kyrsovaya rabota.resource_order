@@ -18,8 +18,10 @@
   "ResourceOrderSettings": [
     {"name":"PlayerCollision","order":2,"path":"scripts/PlayerCollision/PlayerCollision.yy",},
     {"name":"sTiles","order":4,"path":"sprites/sTiles/sTiles.yy",},
+    {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"sCol","order":2,"path":"sprites/sCol/sCol.yy",},
     {"name":"oGame","order":1,"path":"objects/oGame/oGame.yy",},
+    {"name":"ScreenShake","order":5,"path":"scripts/ScreenShake/ScreenShake.yy",},
     {"name":"PlayerStateFree","order":3,"path":"scripts/PlayerStateFree/PlayerStateFree.yy",},
     {"name":"sPlayerRun","order":1,"path":"sprites/sPlayerRun/sPlayerRun.yy",},
     {"name":"rInit","order":2,"path":"rooms/rInit/rInit.yy",},
