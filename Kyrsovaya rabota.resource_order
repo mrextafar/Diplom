@@ -17,6 +17,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"PlayerCollision","order":2,"path":"scripts/PlayerCollision/PlayerCollision.yy",},
+    {"name":"NewTextBox","order":7,"path":"scripts/NewTextBox/NewTextBox.yy",},
     {"name":"sTiles","order":4,"path":"sprites/sTiles/sTiles.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"sCol","order":2,"path":"sprites/sCol/sCol.yy",},
@@ -31,6 +32,8 @@
     {"name":"rVillage","order":1,"path":"rooms/rVillage/rVillage.yy",},
     {"name":"tTiles","order":1,"path":"tilesets/tTiles/tTiles.yy",},
     {"name":"sPlayerRoll","order":3,"path":"sprites/sPlayerRoll/sPlayerRoll.yy",},
+    {"name":"PlayerStateLocked","order":6,"path":"scripts/PlayerStateLocked/PlayerStateLocked.yy",},
     {"name":"MACROS","order":1,"path":"scripts/MACROS/MACROS.yy",},
+    {"name":"oTextQueued","order":3,"path":"objects/oTextQueued/oTextQueued.yy",},
   ],
 }
